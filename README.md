@@ -40,6 +40,9 @@ Customers were segmented based on:
 - **Python/Pandas Code:** Data preparation and analytical code used in the project.
 
 ## Dashboard
+Live interactive dashboard
+https://public.tableau.com/app/profile/rupesh.malkapure5108/viz/European_Banking_Customer_Churn_Analytics/Dashboard1
+
 The Tableau dashboard provides interactive analysis of customer churn across different customer segments using KPI cards, filters, and segment-level visualizations.
 
 ### Dashboard KPIs
